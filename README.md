@@ -1,2 +1,11 @@
 # go-examples
-some practise code of go
+Some practise code of go
+
+## Server
+This dir realize a simple service, and client. funcs usage listed below.
+- server handle post
+- client post
+- json marshal/unmarshal
+- rand
+- read file
+- http service
